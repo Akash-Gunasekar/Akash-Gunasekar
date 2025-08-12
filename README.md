@@ -4,6 +4,9 @@ I’m a passionate **Generative AI Engineer** with a strong background in buildi
 
 ---
 
+![My Chart](https://quickchart.io/chart?c={type:'bar',data:{labels:['A','B'],datasets:[{label:'Example',data:[10,20]}]}})
+
+
 ### About Me
 
 Over the years, I have gained hands-on experience in a wide range of AI and software engineering tools and frameworks. I thrive on transforming cutting-edge research into practical solutions that can drive business value. My expertise includes working with advanced generative AI models, automation tools, and modern web technologies.
