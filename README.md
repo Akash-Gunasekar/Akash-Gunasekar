@@ -46,9 +46,10 @@ I have a deep interest in AI-driven automation and integration, and I’ve worke
 
 ### 📫 Connect with Me
 
-- LinkedIn: [LinkedIn/Akash Gunasekar](https://www.linkedin.com/in/akash-gunasekar-859b48199/)  
-- GitHub: [GitHub/Akash-Gunasekar](https://github.com/Akash-Gunasekar)  
-- Email: akashpersonal18@gmail.com 
+- LinkedIn: [Let's pretend we know each other](https://www.linkedin.com/in/akash-gunasekar-859b48199/)  
+- GitHub: [Where the magic happens](https://github.com/Akash-Gunasekar)  
+- Email: akashpersonal18@gmail.com
+- Portfolio: [Proof I exist online](https://akash-gunasekar-ai.vercel.app)
 
 ---
 
