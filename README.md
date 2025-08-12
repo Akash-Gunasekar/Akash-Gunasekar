@@ -54,3 +54,8 @@ I have a deep interest in AI-driven automation and integration, and I’ve worke
 
 I’m always open to collaborating on exciting AI projects or discussing the latest trends in generative AI and automation. Feel free to reach out!
 
+**Made with ❤️ by Akash Gunasekar**
+_Star ⭐ this profile if it helped you build something awesome!_
+
+
+
