@@ -14,7 +14,7 @@ I have a deep interest in AI-driven automation and integration, and I’ve worke
 
 ### 🧰 Technologies & Tools I Use
 
-- Generative AI: GPT, Gemini, Claude, Mistral, Bedrock Foundational Models
+- Generative AI: GPT, Gemini, Claude, Mistral, Bedrock Foundational Models, Azure OpenAI Services
 - AI Orchestration & Automation: MCP, n8n, LangGraph, LangFuse, LangChain, Crew AI  
 - Testing & Evaluation: Pytest, DeepEvals  
 - Automation: Browser use, Playwright, Glass Automation  
@@ -49,8 +49,8 @@ I have a deep interest in AI-driven automation and integration, and I’ve worke
 
 ### 📫 Connect with Me
 
-- LinkedIn: [Akash Gunasekar](https://www.linkedin.com/in/akash-gunasekar-859b48199/)  
-- GitHub: [Akash-Gunasekar](https://github.com/Akash-Gunasekar)  
+- LinkedIn: [LinkedIn/Akash Gunasekar](https://www.linkedin.com/in/akash-gunasekar-859b48199/)  
+- GitHub: [GitHub/Akash-Gunasekar](https://github.com/Akash-Gunasekar)  
 - Email: akashpersonal18@gmail.com 
 
 ---
