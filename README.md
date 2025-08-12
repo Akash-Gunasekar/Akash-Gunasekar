@@ -39,9 +39,6 @@ I have a deep interest in AI-driven automation and integration, and I’ve worke
 - **Text Summarization & NLP Chatbot**  
   Built a web application that integrates ML and DL models for multi-lingual text summarization, translation, text-to-speech, and chatbot functionalities leveraging NLP pipelines.
 
-- **Cloud Cost Optimization & Anomaly Detection**  
-  Created AI-driven cloud monitoring solutions to optimize costs, predict usage, and detect anomalies in cloud infrastructure via machine learning and deep learning models.
-
 - **End-to-End Model Testing and Evaluation Framework**  
   Implemented rigorous testing pipelines using Pytest and DeepEvals to ensure robustness, accuracy, and fairness of deployed AI models.
 
